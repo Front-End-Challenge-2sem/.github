@@ -155,5 +155,5 @@ projeto-saude-digital/
 ## 🌐 Links Importantes
 
 - 📊 **GitHub do Projeto:** https://github.com/Front-End-Challenge-2sem/Sprint3-front-HC
-- 🎥 **Vídeo Demonstrativo no YouTube:** [Link para o Vídeo no YouTube]  
+- 🎥 **Vídeo Demonstrativo no YouTube:** https://www.youtube.com/watch?v=pbrdas3-loU
 
